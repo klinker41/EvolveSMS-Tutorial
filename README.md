@@ -1,0 +1,2 @@
+Simple activity which is shown over the top of another, with animated bubbles showing on screen and then hiding.<p>
+Inspired by the Google Launcher intro tutorial shown on first start, but I decided I could make it much, much better ;)
